@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dfpvideo="http://api.google.com/dfpvideo" xmlns:tms="http://data.tmsapi.com/v1.1" version="2.0">
+<channel>
+<title>Sample video</title>
+<dfpvideo:version>2</dfpvideo:version>
+<item>
+<pubDate>Fri, 12 Nov 2016 18:19:10 +0000</pubDate>
+<title>Test_Item1</title>
+<dfpvideo:keyvalues key="language" value="EN/ID/KR/JP" type="string"/>
+<dfpvideo:keyvalues key="lang" value="EN" type="string"/>
+<dfpvideo:keyvalues key="lang" value="ID" type="string"/>
+<dfpvideo:keyvalues key="dwinanto_mrss_kv" value="EN,ID,KR,JP" type="string"/>
+<dfpvideo:keyvalues key="episode" value="5" type="int"/>
+<dfpvideo:keyvalues key="season" value="2" type="int"/>
+<dfpvideo:keyvalues key="title" value="Example Title" type="string"/>
+<dfpvideo:keyvalues key="aamrssversion" value="v25Dwi" type="string"/>
+<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Big_Buck_Bunny_thumbnail_vlc.png" width="280" height="190"/>
+<media:content duration="39" url="http://www.feedprovider.com/video?8eqe7e"/>
+<dfpvideo:contentId>TITL1512210001636741</dfpvideo:contentId>
+<dfpvideo:lastModifiedDate>Wed, 29 Sep 2021 18:30:11 +0800</dfpvideo:lastModifiedDate>
+<dfpvideo:cuepoints>15</dfpvideo:cuepoints>
+</item>
+<item>
+<pubDate>Fri, 12 Nov 2016 18:19:10 +0000</pubDate>
+<title>Test_Item2</title>
+<dfpvideo:keyvalues key="language" value="EN/ID/KR/JP" type="string"/>
+<dfpvideo:keyvalues key="lang" value="EN" type="string"/>
+<dfpvideo:keyvalues key="lang" value="ID" type="string"/>
+<dfpvideo:keyvalues key="dwinanto_mrss_kv" value="EN,ID,KR,JP" type="string"/>
+<dfpvideo:keyvalues key="episode" value="5" type="int"/>
+<dfpvideo:keyvalues key="season" value="2" type="int"/>
+<dfpvideo:keyvalues key="title" value="Example Title" type="string"/>
+<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Big_Buck_Bunny_thumbnail_vlc.png" width="280" height="190"/>
+<media:content duration="39" url="http://www.feedprovider.com/video?8eqe7e"/>
+<dfpvideo:contentId>video6</dfpvideo:contentId>
+<dfpvideo:lastModifiedDate>Tue, 31 Aug 2021 4:25:11 +0200</dfpvideo:lastModifiedDate>
+<dfpvideo:cuepoints>10</dfpvideo:cuepoints>
+</item>
+</channel>
+</rss>
